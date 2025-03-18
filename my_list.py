@@ -23,5 +23,5 @@ my_list.sort()
 index_of_30 = my_list.index(30)
 print("Index of 30:", index_of_30)
 
-# Optional: Print the final list to see the result
+# Step 8: Print the final list to see the result
 print("Final my_list:", my_list)
